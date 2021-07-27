@@ -1,0 +1,418 @@
+[
+  {
+    "name": "Banana",
+    "calories": 89
+  },
+  {
+    "name": "French onion soup",
+    "calories": 69.91
+  },
+  {
+    "name": "Big PB&J Sandwich",
+    "calories": 384.3
+  },
+  {
+    "name": "tj kung pao chicken",
+    "calories": 1000
+  },
+  {
+    "name": "Scrambled Tofu on Toast",
+    "calories": 208.77
+  },
+  {
+    "name": "Blueberries",
+    "calories": 57
+  },
+  {
+    "name": "Mango chia seed pudding",
+    "calories": 189.17
+  },
+  {
+    "name": "Fruit salad",
+    "calories": 44.33
+  },
+  {
+    "name": "Onigiri Balls",
+    "calories": 345.7
+  },
+  {
+    "name": "Spinach Recipe",
+    "calories": 57.02
+  },
+  {
+    "name": "Avocado Toast",
+    "calories": 198.15
+  },
+  {
+    "name": "Super Simple Pasta",
+    "calories": 436.85
+  },
+  {
+    "name": "Zucchini Spears",
+    "calories": 16.97
+  },
+  {
+    "name": "Zucchini & Hummus",
+    "calories": 69.51
+  },
+  {
+    "name": "Spicy Coriander Popcorn",
+    "calories": 454.27
+  },
+  {
+    "name": "Simple Cabbage Salad",
+    "calories": 44.52
+  },
+  {
+    "name": "Kale Chips",
+    "calories": 88.57
+  },
+  {
+    "name": "Classic Avocado Toast",
+    "calories": 193.27
+  },
+  {
+    "name": "Garlic Broccoli Tofu",
+    "calories": 46.25
+  },
+  {
+    "name": "Baked Spinach Chips",
+    "calories": 109.74
+  },
+  {
+    "name": "Avocado Sandwich",
+    "calories": 176.71
+  },
+  {
+    "name": "Whole Wheat Toast",
+    "calories": 252
+  },
+  {
+    "name": "Green Pea Salad",
+    "calories": 160.21
+  },
+  {
+    "name": "Carrots with hummus",
+    "calories": 88.59
+  },
+  {
+    "name": "Fried Broccoli",
+    "calories": 50.68
+  },
+  {
+    "name": "Cinnamon Apple Bites",
+    "calories": 49.6
+  },
+  {
+    "name": "Quinoa",
+    "calories": 358.51
+  },
+  {
+    "name": "Plain Popcorn",
+    "calories": 519.15
+  },
+  {
+    "name": "Broccoli Spaghetti Soup",
+    "calories": 317
+  },
+  {
+    "name": "Balsamic Asparagus",
+    "calories": 45.13
+  },
+  {
+    "name": "Apples and Almond Butter",
+    "calories": 136.03
+  },
+  {
+    "name": "Celery & Hummus",
+    "calories": 64.68
+  },
+  {
+    "name": "Oat Bran",
+    "calories": 56.38
+  },
+  {
+    "name": "Apple",
+    "calories": 52
+  },
+  {
+    "name": "Celery",
+    "calories": 16
+  },
+  {
+    "name": "Blueberry Almond Butter Oatmeal",
+    "calories": 81.75
+  },
+  {
+    "name": "Sautéed Brussel Sprouts with Onion and Garlic",
+    "calories": 93.74
+  },
+  {
+    "name": "Steamed Broccoli with Tomato",
+    "calories": 29.81
+  },
+  {
+    "name": "Strawberry Tofu Smoothie",
+    "calories": 42.41
+  },
+  {
+    "name": "Easy Spinach and Scallion Salad",
+    "calories": 73.92
+  },
+  {
+    "name": "Kale Avocado Salad",
+    "calories": 99.63
+  },
+  {
+    "name": "Kale and Apple Juice",
+    "calories": 51.31
+  },
+  {
+    "name": "Lemon Steamed Broccoli",
+    "calories": 50.61
+  },
+  {
+    "name": "Sautéed Spinach with Pine nuts",
+    "calories": 338.99
+  },
+  {
+    "name": "Caramelized Cauliflower Steaks",
+    "calories": 111.98
+  },
+  {
+    "name": "Cucumber Slices",
+    "calories": 15
+  },
+  {
+    "name": "Detox Broccoli Soup",
+    "calories": 128.49
+  },
+  {
+    "name": "Avocado Toast",
+    "calories": 160.79
+  },
+  {
+    "name": "Yellow Rice",
+    "calories": 128.91
+  },
+  {
+    "name": "Roasted Brussels Sprouts with Lemon Juice",
+    "calories": 66.5
+  },
+  {
+    "name": "werwer",
+    "calories": 680.42
+  },
+  {
+    "name": "Oven-Baked Curly Fries",
+    "calories": 103.65
+  },
+  {
+    "name": "Oranges",
+    "calories": 47
+  },
+  {
+    "name": "Zucchetti",
+    "calories": 17
+  },
+  {
+    "name": "Bow Ties with Veggies",
+    "calories": 143.43
+  },
+  {
+    "name": "Sautéed Kale",
+    "calories": 275.55
+  },
+  {
+    "name": "Zucchini Noodles",
+    "calories": 51.62
+  },
+  {
+    "name": "Garlicky Beet Delight",
+    "calories": 101.73
+  },
+  {
+    "name": "Cantaloupe",
+    "calories": 34
+  },
+  {
+    "name": "Granola",
+    "calories": 489
+  },
+  {
+    "name": "Garlic Kale",
+    "calories": 186.26
+  },
+  {
+    "name": "Tomato Basil Pasta",
+    "calories": 162.5
+  },
+  {
+    "name": "Cucumber & Hummus",
+    "calories": 71.12
+  },
+  {
+    "name": "Tomato Salad",
+    "calories": 15.25
+  },
+  {
+    "name": "Sweet Potato Pasta",
+    "calories": 149.39
+  },
+  {
+    "name": "Grapes",
+    "calories": 69
+  },
+  {
+    "name": "Almond Butter & Celery",
+    "calories": 135.6
+  },
+  {
+    "name": "ijwoeirjoiwejr",
+    "calories": 357.27
+  },
+  {
+    "name": "Kale With Caramelized Onions and Garlic",
+    "calories": 76.42
+  },
+  {
+    "name": "Strawberries",
+    "calories": 32
+  },
+  {
+    "name": "Microwaved sweet potato",
+    "calories": 86
+  },
+  {
+    "name": "Blueberry Almond Butter Protein Smoothie",
+    "calories": 59.18
+  },
+  {
+    "name": "Cauliflower and Hummus Snack",
+    "calories": 34.22
+  },
+  {
+    "name": "Cooked Okra",
+    "calories": 87.35
+  },
+  {
+    "name": "Paleo Trail Mix",
+    "calories": 336.68
+  },
+  {
+    "name": "Pineapple Kale Smoothie",
+    "calories": 38.03
+  },
+  {
+    "name": "Apricot Jam and Almond Butter Sandwich",
+    "calories": 331.41
+  },
+  {
+    "name": "Tomato soup",
+    "calories": 37.05
+  },
+  {
+    "name": "Boiled Kale",
+    "calories": 10.8
+  },
+  {
+    "name": "Blackberry Almond Butter Sandwich",
+    "calories": 198.91
+  },
+  {
+    "name": "Brussels Sprout Slaw",
+    "calories": 87.01
+  },
+  {
+    "name": "werwrwr",
+    "calories": 600
+  },
+  {
+    "name": "Easy Crackers",
+    "calories": 323.91
+  },
+  {
+    "name": "Carrots",
+    "calories": 35
+  },
+  {
+    "name": "Oat bran and cinnamon",
+    "calories": 41.7
+  },
+  {
+    "name": "Pear Oatmeal",
+    "calories": 43.46
+  },
+  {
+    "name": "Spanish-style Toast with Tomato (Pan con tomate)",
+    "calories": 143.31
+  },
+  {
+    "name": "Spaghetti with olive oil and garlic sauce",
+    "calories": 477.71
+  },
+  {
+    "name": "Baked Korean Sweet Potatoes",
+    "calories": 164.32
+  },
+  {
+    "name": "Lebanese White Cabbage Salad",
+    "calories": 40.6
+  },
+  {
+    "name": "Arugula Salad",
+    "calories": 66.28
+  },
+  {
+    "name": "Roasted asparagus",
+    "calories": 54.65
+  },
+  {
+    "name": "Chocolate Avocado Pudding",
+    "calories": 143.81
+  },
+  {
+    "name": "Fresh Tomato Pasta",
+    "calories": 254.95
+  },
+  {
+    "name": "Grilled Romaine with Lemon",
+    "calories": 23.2
+  },
+  {
+    "name": "Spaghetti with Onion and Mushroom",
+    "calories": 167.42
+  },
+  {
+    "name": "White Rice",
+    "calories": 124.57
+  },
+  {
+    "name": "Spinach salad",
+    "calories": 73.92
+  },
+  {
+    "name": "Garlic Roasted Brussels Sprouts",
+    "calories": 154.69
+  },
+  {
+    "name": "heiehehe",
+    "calories": 31.43
+  },
+  {
+    "name": "Scottish Porridge",
+    "calories": 34.69
+  },
+  {
+    "name": "Vegan Mushroom-Cashew Toast",
+    "calories": 172.21
+  },
+  {
+    "name": "Lebanese Tomato and Onion Salad",
+    "calories": 47.15
+  },
+  {
+    "name": "Steamed Carrots",
+    "calories": 25.56
+  }
+]

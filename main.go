@@ -22,6 +22,7 @@ func loadFoods() []models.Food {
 	if err != nil {
 		panic(err)
 	}
+
 	return foods
 }
 

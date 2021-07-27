@@ -10,4 +10,5 @@
 
 ### Testing your generator
 You can run the program with `go run sample_generator` 
-- can optionally specify the target calories with an argument (defaults to 2000): `-cals 1000`
+- can optionally specify the target calories with an argument (defaults to 2000): e.g. `-cals 1000`
+- can optionally specify keywords to exclude: e.g. `-excls chicken,beef`
